@@ -13,4 +13,4 @@ Credits
 I want to thank all the community for their inputs that shaped OpenBullet into what it is now, and my gratitude goes towards demiurgo and meinname, who spent a lot of time helping me test and debug the Beta builds.
 
 Contact
-Discord: SilverbulletProAdmin#0207
+Discord: CrackingWithOpenBullet#0207
